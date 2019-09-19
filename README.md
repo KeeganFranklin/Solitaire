@@ -4,4 +4,3 @@ SolitaireController, which creates and uses 5 other classes. 3 of these classes,
 Tableau all implement the GamePile interface. GamePiles interact with each other by passing each other
 card ImageViews and Card objects. 
 
-https://github.com/KeeganFranklin/Solitaire/master/SolitaireGIF.gif
